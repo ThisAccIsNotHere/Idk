@@ -10730,7 +10730,7 @@ local gt = GuiLibrary.ObjectsThatCanBeSaved.CombatWindow.Api.CreateOptionsButton
                 if message.TextSource then
                     local player = game:GetService("Players"):GetPlayerByUserId(message.TextSource.UserId)
                     if player.Name == "Akbaaralt1" or player.Name == "Akbaaralt2" or player.Name == "Akbaaralt3" or player.Name == "Akbaaralt4" or player.Name == "Akbaaralt5" or player.Name == "Akbaaralt6" or player.Name == "OnAyto8" or player.Name == "OnAyto9" or player.Name == "OnAyto10" then
-                        properties.PrefixText = "<font color='#161212'>[Dark<3]</font> " .. message.PrefixText
+                        properties.PrefixText = "<font color='#161212'>[Dark🖤]</font> " .. message.PrefixText
                     elseif player.Name == "rel_ongngnggn" or player.Name == "iwantyouinmyroomyum" then
                         properties.PrefixText = "<font color='#ff0000'>[AllahWareDevs🚬]</font> " .. message.PrefixText 
                     elseif player.Name == "RareBedWaresAcc1" then
